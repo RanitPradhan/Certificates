@@ -1,3 +1,3 @@
 ## Real Python
-### Cources
+### Courses
 ### Certificates
